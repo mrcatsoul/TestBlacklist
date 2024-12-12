@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff00bbeeBlacklist|r by |cFFC41F3BMori|r
+## TitleShort: Blacklist
+## Version: 0.69.420
+## Notes: Работа над кодом: Рандом из лфг (github/youtube: @mrcatsoul, discord: @dpshero,|r |cFFC41F3BTombstalker|r/|cFFffffffМораль|r/|cFFC41F3BMoriarty|r @ WowCircle WotLK)
+## SavedVariables: TBL_CoolCustomNamesBlacklist_Settings
+
+TestBlacklist.lua
